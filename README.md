@@ -9,7 +9,7 @@ I create projects that combine practice and research, from visualization to comp
 
 - **Languages:** Python, C#, JavaScript, HTML, CSS
 - **Frameworks/Libraries:** Django, PyGame, OpenGL, CUDA, Three.js
-- **Topics:** Mathematical modeling, physics, high-performance computing
+- **Topics:** Mathematical modeling, physics, high-performance computing, development of everyday mobile and PC applications
 - Constantly learning new technologies and improving my skills
 
 ---

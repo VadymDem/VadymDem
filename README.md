@@ -8,7 +8,7 @@ I create projects that combine practice and research, from visualization to comp
 ## 💻 Skills
 
 - **Languages:** Python, C#, JavaScript, HTML, CSS
-- **Frameworks/Libraries:** Django, PyGame, OpenGL, CUDA, Three.js
+- **Frameworks/Libraries:** Django, PyGame, OpenGL, CUDA, Three.js, ASP .NET Core
 - **Topics:** Mathematical modeling, physics, high-performance computing, development of everyday mobile and PC applications
 - Constantly learning new technologies and improving my skills
 
@@ -16,9 +16,9 @@ I create projects that combine practice and research, from visualization to comp
 
 ## 🚀 Projects I'm currently working on
 
-- **Pixel art generator** — a tool for creating unique pixel images
-- **Mobile weather app with personalized recommendations** — displays weather and advice based on user preferences
-- **Galaxy in the browser on Three.js** — interactive space visualization directly on the web
+- **Nail Salon Website** — A website for a nail salon with appointment and service booking functionality
+- **Mobile Weather App with Personalized Recommendations** — Displays weather and advice based on user preferences
+- **SFDRN Mesh Network** — A nodal distributed mesh network designed for crisis situations and conditions where operational transport protocols are lost
 
 > ⚡ Constantly developing projects and adding new features and visualizations.
 

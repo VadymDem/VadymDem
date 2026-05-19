@@ -16,7 +16,6 @@ I create projects that combine practice and research, from visualization to comp
 
 ## 🚀 Projects I'm currently working on
 
-- **Nail Salon Website** — A website for a nail salon with appointment and service booking functionality
 - **Mobile Weather App with Personalized Recommendations** — Displays weather and advice based on user preferences
 - **SFDRN Mesh Network** — A nodal distributed mesh network designed for crisis situations and conditions where operational transport protocols are lost
 
@@ -35,7 +34,7 @@ I create projects that combine practice and research, from visualization to comp
 ## ✨ Contacts
 
 - GitHub: [@VadymDem](https://github.com/VadymDem)
-- Email: d.reserve.29@mail.com
+- Email: d.reserve.29@gmail.com
 
 ---
 

@@ -122,6 +122,13 @@ A **REST API backend** for a restaurant reservation system, built as a student p
 <img src="https://ghchart.rshah.org/36BCF7/VadymDem" alt="Contribution chart" width="85%" />
 
 </div>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VadymDem/VadymDem/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VadymDem/VadymDem/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/VadymDem/VadymDem/output/github-snake-dark.svg" />
+</picture>
+</div>
 
 ---
 

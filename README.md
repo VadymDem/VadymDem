@@ -117,10 +117,6 @@ A **REST API backend** for a restaurant reservation system, built as a student p
 ![Last commit](https://img.shields.io/github/last-commit/VadymDem/restaurant-management-api?style=for-the-badge&logo=git&logoColor=white&color=2c5364)
 ![Top language](https://img.shields.io/github/languages/top/VadymDem/melon_launcher?style=for-the-badge&logo=python&logoColor=white&color=36BCF7)
 
-<br/>
-
-<img src="https://ghchart.rshah.org/36BCF7/VadymDem" alt="Contribution chart" width="85%" />
-
 </div>
 <div align="center">
 <picture>

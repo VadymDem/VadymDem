@@ -90,17 +90,6 @@ A **REST API backend** for a restaurant reservation system, built as a student p
 
 ---
 
-## 🚀 Currently working on
-
-| Project | Description |
-|---|---|
-| 🌦️ **Mobile Weather App** | Displays weather and personalized recommendations based on user preferences |
-| 🕸️ **SFDRN Mesh Network** | A nodal distributed mesh network designed for crisis situations and conditions where operational transport protocols are lost |
-
-> ⚡ Constantly developing projects and adding new features and visualizations.
-
----
-
 ## 📚 Training & development
 
 - 🎓 Taking online courses on Python, C#, JavaScript, and modern frameworks
